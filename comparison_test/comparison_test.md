@@ -17,8 +17,7 @@ Useful to know the relative sizes of expressions (ordered largest to smallest):
 >	4. Logarithms (ln n)
 >	5. Constants
 ----------------------------------
-
-	**Limit comparison test**
+**Limit comparison test**
  Supposed that a~n~, b~N~ > 0.
 
 * If lim n-> &#931 &#873C a~n~/b~n~ = L > 0 then n=k &#931 &#873C a~n~ and &#931 &#873C b~n~
