@@ -3,9 +3,9 @@ incorporate "sigma" and some kind of visual representation
 
 Suppose that 0 <= subn(a) <= subn(b)
 
-If n=k &Sigma &Infitiy a~n~ diverges, then n=k &#931 &#873C b~n~ diverges
+If n=k &Sigma; &Infitiy; a~n~ diverges, then n=k &#931 &#873C b~n~ diverges
 
-If n=k &#931 &#873C a~n~ converges, then n=k &#931 &#873C b~n~ converges.
+If n=k &#931; &#873C; a~n~ converges, then n=k &#931 &#873C b~n~ converges.
 ----------------------------------
 **GOAL**: Find the *esential* behavior and use this to bound the sequence (above or below).
 
