@@ -3,9 +3,9 @@ incorporate "sigma" and some kind of visual representation
 
 Suppose that 0 <= subn(a) <= subn(b)
 
-If n=k &Sigma; &#8734; a~n~ diverges, then n=k &#931 &#873C b~n~ diverges
+If n=k &Sigma; &#8734; a<sub>n<sub> diverges, then n=k &#931; &#8734; b<sub>n<sub> diverges
 
-If n=k &#931; &#infin; a~n~ converges, then n=k &#931 &#873C b~n~ converges.
+If n=k &#931; &#infin; a~n~ converges, then n=k &#931; &#873C; b<sub>n<sub> converges.
 ----------------------------------
 **GOAL**: Find the *esential* behavior and use this to bound the sequence (above or below).
 
@@ -18,7 +18,7 @@ Useful to know the relative sizes of expressions (ordered largest to smallest):
 >	5. Constants
 ----------------------------------
 **Limit comparison test**
- Supposed that a~n~, b~N~ > 0.
+ Suppose that a~n~, b~N~ > 0.
 
 * If lim n-> &#931 &#873C a~n~/b~n~ = L > 0 then n=k &#931 &#873C a~n~ and &#931 &#873C b~n~
 	both converge or both diverge.
