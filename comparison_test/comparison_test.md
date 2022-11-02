@@ -1,7 +1,7 @@
 write a program that determines whether or not an infinite sum converges
 incorporate "sigma" and some kind of visual representation
 
-Suppose that 0 <= subn(a) <= subn(b)
+Suppose that 0 <= a<sub>n</sub> <= b<sub>n</sub>
 
 If n=k &Sigma; &#8734; a<sub>n</sub> diverges, then n=k &#931; &#8734; b<sub>n</sub> diverges
 
